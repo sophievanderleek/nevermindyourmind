@@ -37,6 +37,14 @@ Aanrader: **Netlify** of **Cloudflare Pages**. Beide zijn gratis, staan een zake
 
 GitHub Pages kan ook (Settings → Pages → branch `main`, map `/`), maar is gratis alleen voor publieke repositories, en volgens de voorwaarden van GitHub niet bedoeld voor zakelijke sites.
 
+## Contactformulier
+
+Berichten uit het formulier gaan via [FormSubmit](https://formsubmit.co) naar `sophie@nevermindyourmind.nl`. Daar is geen account voor nodig.
+
+- **Eenmalig activeren:** vul het formulier na het online zetten één keer zelf in op je echte domein. Je krijgt dan een mail van FormSubmit: klik op **Activate Form**. Daarna komen berichten direct in je mailbox.
+- Het e-mailadres staat bovenin het formulierdeel van `assets/js/main.js` (`MAILBOX`).
+- Lukt versturen niet, dan krijgt de bezoeker een link om het bericht per e-mail te sturen, met de tekst al ingevuld.
+
 ## Domein
 
 De site gaat uit van het adres `https://nevermindyourmind.nl`. Gebruik je een ander adres (bijvoorbeeld met `www`), pas het dan aan in:
@@ -50,7 +58,7 @@ De site gaat uit van het adres `https://nevermindyourmind.nl`. Gebruik je een an
 - [ ] Privacyverklaring nalezen, vooral de bewaartermijnen
 - [ ] Schriftelijke toestemming van de ouders voor de reviews met namen en leeftijden van kinderen
 - [ ] Controleren of je de foto's op je website mag gebruiken (licentie of toestemming)
-- [ ] Contactformulier: dit opent nu het e-mailprogramma van de bezoeker. Met een formulierdienst (bijvoorbeeld Netlify Forms) komen berichten direct binnen.
+- [ ] Contactformulier activeren (zie hierboven bij Contactformulier)
 
 ## Goed om te weten
 
